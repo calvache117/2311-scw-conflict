@@ -2,6 +2,7 @@ import sys
 """
 This script counts the lines in standard input 
 Input: text from the system
+Output: Number of lines (I guess)
 """
 print("hello you")
 
